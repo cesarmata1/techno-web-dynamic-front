@@ -1,163 +1,104 @@
-Aquí tienes un README.md completo y profesional para tu repositorio de GitHub, basado en todos los archivos proporcionados:
+# 🌐 Proyecto Web HTML – Prácticas de Desarrollo
 
-Página de artículos 
+Este repositorio contiene un conjunto de páginas desarrolladas en **HTML5** como práctica de estructura semántica, formularios y organización de contenido web.
 
-dc96c521-eda7-4f47-96b0-c66392b…
+## 📂 Estructura del Proyecto
 
-Página de detalles 
-
-9b30595b-2fde-45d2-9415-dcd8fc0…
-
-Currículum HTML 
-
-18440ab0-bafe-4228-b95f-1da5ce9…
-
-Formulario de práctica 
-
-34076b5d-704d-415f-abef-d7f8202…
-
-🌐 Proyecto Web HTML – Prácticas de Desarrollo
-
-Este repositorio contiene un conjunto de páginas desarrolladas en HTML5 como práctica de estructura semántica, formularios y organización de contenido web.
-
-📂 Estructura del Proyecto
+```
 📁 proyecto-html
  ├── articulos.html
  ├── detalles.html
  ├── cv.html
  └── formulario.html
+```
 
-📄 1️⃣ Página de Artículos
+## 📄 1️⃣ Página de Artículos
 
-Archivo: articulos.html
+**Archivo:** `articulos.html`
 
-Incluye:
+### Incluye:
 
-Uso de etiquetas semánticas (section, article, header, footer)
+- Uso de etiquetas semánticas (`section`, `article`, `header`, `footer`)
+- Artículo sobre Rosalía de Castro
+- Fecha de publicación
+- Botón de envío
+- Uso del elemento `<dialog>` abierto por defecto
+- Enlace a página de detalles
 
-Artículo sobre Rosalía de Castro
+### 🔎 Contenido principal:
 
-Fecha de publicación
+> Resumen sobre la importancia de Rosalía de Castro en la literatura española y gallega.
 
-Botón de envío
+---
 
-Uso del elemento <dialog> abierto por defecto
+## 📖 2️⃣ Página de Detalles
 
-Enlace a página de detalles
+**Archivo:** `detalles.html`
 
-🔎 Contenido principal:
+### Contiene:
 
-Resumen sobre la importancia de Rosalía de Castro en la literatura española y gallega.
+- Desarrollo ampliado del artículo
+- Sección de comentario
+- Enlace de regreso a la lista de artículos
+- Estructura semántica con `<article>` y `<section>`
 
-📖 2️⃣ Página de Detalles
+---
 
-Archivo: detalles.html
+## 👨‍💼 3️⃣ Currículum Vitae en HTML
 
-Contiene:
+**Archivo:** `cv.html`
 
-Desarrollo ampliado del artículo
+### Incluye:
 
-Sección de comentario
+- Información personal
+- Perfil profesional
+- Formación académica
+- Experiencia profesional con `<details>` y `<summary>`
+- Lista de competencias
 
-Enlace de regreso a la lista de artículos
+### Características técnicas:
 
-Estructura semántica con <article> y <section>
+- Uso de listas (`ul`)
+- Elementos desplegables (`details`)
+- Imagen de perfil
+- Enlace externo a Instagram
 
-👨‍💼 3️⃣ Currículum Vitae en HTML
+---
 
-Archivo: cv.html
+## 📝 4️⃣ Formulario de Contacto
 
-Incluye:
+**Archivo:** `formulario.html`
 
-Información personal
+### Formulario completo con:
 
-Perfil profesional
+- Input de texto
+- Email con validación HTML5
+- Textarea
+- Select desplegable
+- Selector de fecha
+- Campo de género
+- Botón de envío
 
-Formación académica
+### Conceptos aplicados:
 
-Experiencia profesional con <details> y <summary>
+- Atributo `required`
+- Placeholders
+- Diferentes tipos de `input`
 
-Lista de competencias
+---
 
-Características técnicas:
+## 🧩 Tecnologías Utilizadas
 
-Uso de listas (ul)
+- HTML5
+- Estructura semántica
+- Formularios nativos
+- Elementos interactivos (`dialog`, `details`)
 
-Elementos desplegables (details)
+---
 
-Imagen de perfil
+## 🎯 Objetivos del Proyecto
 
-Enlace externo a Instagram
-
-📝 4️⃣ Formulario de Contacto
-
-Archivo: formulario.html
-
-Formulario completo con:
-
-Input de texto
-
-Email con validación HTML5
-
-Textarea
-
-Select desplegable
-
-Selector de fecha
-
-Campo de género
-
-Botón de envío
-
-Conceptos aplicados:
-
-Atributo required
-
-Placeholders
-
-Diferentes tipos de input
-
-🧩 Tecnologías Utilizadas
-
-HTML5
-
-Estructura semántica
-
-Formularios nativos
-
-Elementos interactivos (dialog, details)
-
-🎯 Objetivos del Proyecto
-
-Practicar estructura HTML semántica
-
-Aprender a crear formularios funcionales
-
-Organizar contenido en múltiples páginas
-
-Aplicar buenas prácticas básicas de maquetación
-
-🚀 Cómo visualizar el proyecto
-
-Clona el repositorio:
-
-git clone https://github.com/tuusuario/tu-repositorio.git
-
-
-Abre cualquiera de los archivos .html en tu navegador.
-
-🔮 Posibles Mejoras
-
-Añadir CSS para mejorar el diseño visual
-
-Implementar JavaScript para:
-
-Controlar el <dialog>
-
-Validaciones personalizadas
-
-Envío real del formulario
-
-Adaptar el diseño a responsive
-
-Integrar backend para gestión de datos
+- Practicar estructura HTML semántica  
+- Aprender a crear formularios funcionales  
+- Organizar contenido en múltiples páginas  
+- Aplicar buenas prácticas básicas de maquetación  
